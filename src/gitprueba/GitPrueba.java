@@ -16,6 +16,7 @@ public class GitPrueba {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Estoy haciendo un cambio ahora");
+        System.out.println("Otro cambio");
         //https://github.com/lcastellanosc/GitPrueba.git
     }
     
